@@ -1,4 +1,4 @@
-1. 1. ## Overview
+## Overview
 
       In this project, we aim to build a polynomial regression model for predicting the points scored by a sports team.
 
