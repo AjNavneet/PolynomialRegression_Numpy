@@ -1,34 +1,34 @@
 ## Overview
 
-      In this project, we aim to build a polynomial regression model for predicting the points scored by a sports team.
+In this project, we aim to build a polynomial regression model for predicting the points scored by a sports team.
 
-      ### Objective
-      - To predict points scored by a sports team using polynomial regression.
+### Objective
+- To predict points scored by a sports team using polynomial regression.
 
-      ### Data Description
-      The dataset contains information about the points scored by sports teams based on various attributes.
+  ### Data Description
+  The dataset contains information about the points scored by sports teams based on various attributes.
 
-      ### Tech Stack
-      - Language: Python
-      - Libraries: pandas, numpy, scipy, matplotlib, seaborn, sklearn, statsmodel
+  ### Tech Stack
+  - Language: Python
+  - Libraries: pandas, numpy, scipy, matplotlib, seaborn, sklearn, statsmodel
 
-      ---
+---
 
-      ### Approach
+### Approach
 
-      1. **Data Preprocessing:**
+ 1. **Data Preprocessing:**
          - Outlier removal
          - Imputing null values
          - One-hot encoding
 
-      2. **Model Building:**
-         - Linear regression model building
+  2. **Model Building:**
+     - Linear regression model building
 
          Polynomial regression is a form of regression analysis that maps the relationship between the dependent variable and independent variable using an nth-degree polynomial. While linear regression works well for linear datasets, it may yield drastic results when applied to non-linear data. In such cases, polynomial regression is essential to capture the non-linear relationships in the data. Polynomial regression transforms the original features into polynomial features of the required degree and models them using a linear model.
 
-         - Polynomial regression model building
+      - Polynomial regression model building
 
-      3. **Model Evaluation:**
+  3. **Model Evaluation:**
          - Evaluating the model on test data
          - Discussion of various regression metrics like R-squared, AIC, AICC, F-statistics
 
@@ -45,7 +45,7 @@
       6. **requirements.txt**: Lists all the required libraries with their respective versions. Install them using `pip install -r requirements.txt`.
 
 ---
-      ### Project Structure
+### Project Structure
 
       - Root
          - Input
