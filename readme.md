@@ -33,7 +33,7 @@ The dataset contains information about the points scored by sports teams based o
     - Discussion of various regression metrics like R-squared, AIC, AICC, F-statistics
 
 ## Project Structure
-
+```
 - Root
   - Input
     - `NBA_dataset.csv`
@@ -46,6 +46,7 @@ The dataset contains information about the points scored by sports teams based o
     - `Engine.py`
     - `Readme.md`
     - `requirements.txt`
+ ```
 
 ## Takeaways
 
