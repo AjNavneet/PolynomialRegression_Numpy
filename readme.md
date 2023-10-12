@@ -16,6 +16,8 @@ The dataset contains information about the points scored by sports teams based o
 
 - Language: Python
 - Libraries: `pandas`, `numpy`, `scipy`, `matplotlib`, `seaborn`, `scikit-learn`, `statsmodels`
+  
+---
 
 ## Approach
 
@@ -31,6 +33,8 @@ The dataset contains information about the points scored by sports teams based o
 3. **Model Evaluation:**
     - Evaluating the model on test data
     - Discussion of various regression metrics like R-squared, AIC, AICC, F-statistics
+
+---
 
 ## Project Structure
 ```
@@ -48,7 +52,10 @@ The dataset contains information about the points scored by sports teams based o
     - `requirements.txt`
  ```
 
-## Takeaways
+---
+
+## Concepts Explored
+Throughout the project, we explored various concepts and techniques, including
 
 1. Understanding distribution plots.
 2. Knowing how to create box plots.
