@@ -40,12 +40,17 @@ The dataset contains information about the points scored by sports teams based o
 
 1. Understanding Distribution plots, Box plots, Violin plots.
 2. Outliers in data.
-  3. Pandas imputer.
-  - Iterative imputer.
-  - KNN imputer.
-  - LGBM imputer.
-3. Univariate analysis.
-4. Chatterjee correlation.
-5. Implementation of ANOVA.
-6. AIC (Akaike Information Criterion).
-7. Likelihood in statistical modeling.
+3. Pandas imputer.
+4. Iterative imputer.
+5. KNN imputer.
+6. LGBM imputer.
+7. Univariate analysis.
+8. Chatterjee correlation.
+9. Implementation of ANOVA.
+10. AIC (Akaike Information Criterion).
+11. Likelihood in statistical modeling.
+
+
+---
+
+
