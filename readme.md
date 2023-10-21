@@ -1,16 +1,16 @@
-# Polynomial Regression Model for Predicting Sports Team Points
+# Polynomial Regression for Predictive Sports Analysis
 
 ## Overview
 
 In this project, we aim to build a polynomial regression model for predicting the points scored by a sports team.
 
-### Objective
-
-- To predict points scored by a sports team using polynomial regression.
+---
 
 ## Data Description
 
 The dataset contains information about the points scored by sports teams based on various attributes.
+
+---
 
 ## Tech Stack
 
@@ -36,40 +36,16 @@ The dataset contains information about the points scored by sports teams based o
 
 ---
 
-## Project Structure
-```
-- Root
-  - Input
-    - `NBA_dataset.csv`
-  - MLPipeline
-    - I_kuma_utils
-    - I_Model.py
-    - __Preprocessing.py
-  - Notebook
-    - `Regression_Splines.ipynb`
-    - `Engine.py`
-    - `Readme.md`
-    - `requirements.txt`
- ```
-
----
-
 ## Concepts Explored
-Throughout the project, we explored various concepts and techniques, including
 
-1. Understanding distribution plots.
-2. Knowing how to create box plots.
-3. Understanding violin plots.
-4. Detecting outliers in data.
-5. Methods to treat outliers.
-6. Familiarity with pandas imputer.
-7. Understanding iterative imputer.
-8. Knowledge of KNN imputer.
-9. Exploring LGBM imputer.
-10. Univariate analysis.
-11. Chatterjee correlation.
-12. Understanding ANOVA.
-13. Implementation of ANOVA.
-14. Data preprocessing techniques.
-15. Awareness of AIC (Akaike Information Criterion).
-16. Understanding likelihood in statistical modeling.
+1. Understanding Distribution plots, Box plots, Violin plots.
+2. Outliers in data.
+  - Pandas imputer.
+  - Iterative imputer.
+  - KNN imputer.
+  - LGBM imputer.
+3. Univariate analysis.
+4. Chatterjee correlation.
+5. Implementation of ANOVA.
+6. AIC (Akaike Information Criterion).
+7. Likelihood in statistical modeling.
