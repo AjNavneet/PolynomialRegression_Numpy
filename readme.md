@@ -40,7 +40,7 @@ The dataset contains information about the points scored by sports teams based o
 
 1. Understanding Distribution plots, Box plots, Violin plots.
 2. Outliers in data.
-  - Pandas imputer.
+  3. Pandas imputer.
   - Iterative imputer.
   - KNN imputer.
   - LGBM imputer.
