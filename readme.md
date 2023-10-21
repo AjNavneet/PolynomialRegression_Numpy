@@ -14,7 +14,7 @@ The dataset contains information about the points scored by sports teams based o
 
 ## Tech Stack
 
-- Language: Python
+- Language: `Python`
 - Libraries: `pandas`, `numpy`, `scipy`, `matplotlib`, `seaborn`, `scikit-learn`, `statsmodels`
   
 ---
