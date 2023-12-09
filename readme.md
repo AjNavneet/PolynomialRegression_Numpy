@@ -1,4 +1,4 @@
-# Polynomial Regression for Predictive Sports Analysis
+# Polynomial Linear Regression for Sports Analysis
 
 ## Overview
 
@@ -33,23 +33,6 @@ The dataset contains information about the points scored by sports teams based o
 3. **Model Evaluation:**
     - Evaluating the model on test data
     - Discussion of various regression metrics like R-squared, AIC, AICC, F-statistics
-
----
-
-## Concepts Explored
-
-1. Understanding Distribution plots, Box plots, Violin plots.
-2. Outliers in data.
-3. Pandas imputer.
-4. Iterative imputer.
-5. KNN imputer.
-6. LGBM imputer.
-7. Univariate analysis.
-8. Chatterjee correlation.
-9. Implementation of ANOVA.
-10. AIC (Akaike Information Criterion).
-11. Likelihood in statistical modeling.
-
 
 ---
 
